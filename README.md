@@ -1,2 +1,2 @@
 # Proyecto_Investigativo-Factura
-autores: Myriam Yukilema
+autores: Myriam Yukilema - Juan Vallejo
